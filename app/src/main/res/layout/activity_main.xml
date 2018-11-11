@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper"
+    tools:context=".controler.MainActivity">
+
+    <EditText
+        android:id="@+id/txt_busca"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorBack"
+        android:hint="Nome do Filme"
+        android:textStyle="normal"
+        android:textColorHint="@color/colorPreto" />
+
+    <Button
+        style="@android:style/Widget.DeviceDefault.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorGokuBlue"
+        android:onClick="buscarClientes"
+        android:text="@string/btn_busca"
+        android:visibility="visible" />
+
+
+</LinearLayout>

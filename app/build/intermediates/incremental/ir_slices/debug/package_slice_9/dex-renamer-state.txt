@@ -1,0 +1,4 @@
+#Sun Nov 11 05:27:46 BRST 2018
+base.0=C\:\\Users\\android\\Desktop\\aulanova\\entrega\\HoradaPipocaSQLite-master\\HoradaPipocaSQLite-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

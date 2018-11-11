@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Hora da Pipoca</string>
+    <string name="dica_busca">nome do cliente</string>
+    <string name="btn_busca">Buscar</string>
+    <string name="detalhe_nome">Nome:</string>
+    <string name="detalhe_diretor">Diretor: </string>
+    <string name="detalhe_data">Data Lançamento: </string>
+    <string name="detalhe_genero">Gênero: </string>
+    <string name="detalhe_pop">Popularidade: </string>
+    <string name="detalhe_sinop">Sinopse: </string>
+    <string name="detalhe_bil">Bilheteria: </string>
+    <string name="detalhe_elenco">Elenco: </string>
+
+
+
+</resources>

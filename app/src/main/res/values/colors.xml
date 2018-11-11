@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGokuBlue">#08D2D3</color>
+    <color name="colorBack">#BDC8CA</color>
+    <color name="colorPreto">#000000</color>
+    <color name="colorAzul">#C6F6FD</color>
+    <color name="colreefe">#052156</color>
+    <color name="colorb">#ffffff</color>
+    <color name="ssj">#ffff00</color>
+    <color name="ppp">#01df01</color>
+    <color name="vvv">#8A0808</color>
+    <color name="cinza">#2E2E2E</color>
+    <color name="cinzac">#D8D8D8</color>
+    <color name="azule">#0B0B3B</color>
+    <color name="azulea">#020D38</color>
+
+    #01284F
+
+</resources>
